@@ -4,3 +4,6 @@ A tool for project managers to monitor team status, set meeting alerts, set up A
 The tool should have graphical representation of stats and have predictive analysis for item closure
 
 the tool also has various document formats for the project
+
+tthe project will have all documents format and creator for the project, details on the scrum,resource  contribution details , priorities, meetings, unread emails etc 
+
