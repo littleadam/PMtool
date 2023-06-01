@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Read Outlook Unread Mails</title>
+</head>
+<body>
+<h1>Read Outlook Unread Mails</h1>
+<p>This page will read all unread mails in your Outlook app and print the subject of each mail along with the folder where it is stored.</p>
+<script>
+function readUnreadMails() {
+  // Import the necessary libraries.
+  import win32com.client
+  import datetime
+  import os
+  import email
+
+  // Get the Outlook application.
+  outlook = win32com.client.Dispatch("Outlook.Application")
+
+  // Get the inbox folder.
+  inbox = outlook.GetDefaultFolder(6)
+
+  // Get all unread messages in the inbox.
+  messages = inbox.Items.Restrict(olMailUnread)
+
+  // Loop through the messages and print the subject and folder.
+  for message in messages:
+    print(message.Subject, message.Folder.Name)
+}
+
+// Call the readUnreadMails function when the page loads.
+window.onload = readUnreadMails;
+</script>
+</body>
+</html>
