@@ -7,3 +7,5 @@ the tool also has various document formats for the project
 tthe project will have all documents format and creator for the project, details on the scrum,resource  contribution details , priorities, meetings, unread emails etc 
 
 the project considers factors affecting the completion of tasks and notifies the schedule change
+
+it also takes care of appraisal reviews and ratings, facilitating one to one discussions between manager and reportees
