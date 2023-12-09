@@ -25,7 +25,8 @@ function readUnreadMails() {
 
   // Loop through the messages and print the subject and folder.
   for message in messages:
-    print(message.Subject, message.Folder.Name)
+    if your_name.lower() in message.text_body.lower():
+      print(message.Subject, message.Folder.Name)
 }
 
 // Call the readUnreadMails function when the page loads.
