@@ -9,3 +9,4 @@ the project has all documents format and creator for the project, details on the
 the project considers factors affecting the completion of tasks and notifies the schedule change
 
 it also takes care of appraisal reviews and ratings, facilitating one to one discussions between manager and reportees
+it prioritizes mails based on the sender and their official relationship with the user
