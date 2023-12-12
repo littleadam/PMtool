@@ -2,7 +2,7 @@ A tool for project managers to monitor team status, set meeting alerts, set up A
 
 The tool has graphical representation of stats and have predictive analysis for item closure
 
-the tool also has various document formats for the project and builds the contexts of conversational mail threads
+It provides various document formats for the project and builds the contexts of conversational mail threads
 
 the project has all documents format and creator for the project, details on the scrum,resource  contribution details , priorities, meetings, unread emails etc 
 
