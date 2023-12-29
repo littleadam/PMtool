@@ -10,3 +10,4 @@ the project considers factors affecting the completion of tasks and notifies the
 
 it also takes care of appraisal reviews and ratings, facilitating one to one discussions between manager and reportees
 it prioritizes mails based on the sender and their official relationship with the user
+The project complies with standard PM frameworks such as the PMI framework
