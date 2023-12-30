@@ -1,6 +1,8 @@
-A tool for project managers to monitor team status, set meeting alerts, set up Action items for the day, requirement planning and scheduling, info on upcoming events, document creation etc
+A Tool for project managers to monitor team status, set meeting alerts, set up Action items for the day, requirement planning and scheduling, info on upcoming events, document creation etc
 
 The tool has graphical representation of stats and have predictive analysis for item closure
+
+It supports a project manager in all five phases of a project management. 
 
 It provides various document formats for the project and builds the contexts of conversational mail threads
 
