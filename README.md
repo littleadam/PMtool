@@ -4,6 +4,7 @@ The tool has graphical representation of stats and have predictive analysis for 
 
 It supports a project manager in all five phases of a project management. 
 
+The tool also has inbuilt support for important PM frameworks like documents, trackers etc. 
 It provides various document formats for the project and builds the contexts of conversational mail threads
 
 the project has all documents format and creator for the project, details on the scrum,resource  contribution details , priorities, meetings, unread emails etc 
